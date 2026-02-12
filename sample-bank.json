@@ -1,0 +1,1202 @@
+[
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "What does HTML stand for?",
+        "options": [
+            "HyperText Markup Language",
+            "High Tech Modern Language",
+            "HyperTransfer Markup Language",
+            "Home Tool Markup Language"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which HTML element is used for the largest heading?",
+        "options": [
+            "<heading>",
+            "<h6>",
+            "<h1>",
+            "<head>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used to create a paragraph?",
+        "options": [
+            "<para>",
+            "<p>",
+            "<text>",
+            "<pg>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which HTML tag is used to insert an image?",
+        "options": [
+            "<picture>",
+            "<image>",
+            "<img>",
+            "<photo>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "What is the correct HTML element for inserting a line break?",
+        "options": [
+            "<break>",
+            "<lb>",
+            "<newline>",
+            "<br>"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag creates a hyperlink?",
+        "options": [
+            "<link>",
+            "<a>",
+            "<href>",
+            "<url>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used for an unordered list?",
+        "options": [
+            "<ol>",
+            "<list>",
+            "<ul>",
+            "<li>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which HTML tag is used to define bold text?",
+        "options": [
+            "<bold>",
+            "<b>",
+            "<strong>",
+            "Both <b> and <strong>"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used to create a table in HTML?",
+        "options": [
+            "<tab>",
+            "<table>",
+            "<tbl>",
+            "<grid>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "What is the correct HTML tag for italic text?",
+        "options": [
+            "<italic>",
+            "<it>",
+            "<i>",
+            "<slant>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used for a table row?",
+        "options": [
+            "<td>",
+            "<row>",
+            "<tr>",
+            "<th>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used for an ordered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<list>",
+            "<dl>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which attribute specifies the URL for a link?",
+        "options": [
+            "src",
+            "link",
+            "href",
+            "url"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which HTML element defines a list item?",
+        "options": [
+            "<item>",
+            "<list>",
+            "<li>",
+            "<il>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "What is the root element of an HTML page?",
+        "options": [
+            "<body>",
+            "<head>",
+            "<html>",
+            "<root>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag contains the visible content of an HTML page?",
+        "options": [
+            "<head>",
+            "<content>",
+            "<body>",
+            "<main>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used to create a horizontal line?",
+        "options": [
+            "<line>",
+            "<hl>",
+            "<hr>",
+            "<hline>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which attribute is used to specify the source of an image?",
+        "options": [
+            "href",
+            "link",
+            "src",
+            "source"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used to define a form in HTML?",
+        "options": [
+            "<input>",
+            "<form>",
+            "<field>",
+            "<submit>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used for a text input field?",
+        "options": [
+            "<textfield>",
+            "<input>",
+            "<text>",
+            "<field>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which HTML tag is used to display a video?",
+        "options": [
+            "<media>",
+            "<movie>",
+            "<video>",
+            "<play>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used to create a dropdown list?",
+        "options": [
+            "<dropdown>",
+            "<list>",
+            "<select>",
+            "<input>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag defines a table header cell?",
+        "options": [
+            "<thead>",
+            "<th>",
+            "<head>",
+            "<header>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag defines a table data cell?",
+        "options": [
+            "<data>",
+            "<cell>",
+            "<td>",
+            "<tc>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which HTML element is used to embed audio?",
+        "options": [
+            "<sound>",
+            "<music>",
+            "<mp3>",
+            "<audio>"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "What is the correct HTML for creating a button?",
+        "options": [
+            "<btn>",
+            "<input type=\"button\">",
+            "<button>",
+            "Both <input type=\"button\"> and <button>"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used to define emphasized text?",
+        "options": [
+            "<em>",
+            "<italic>",
+            "<emphasis>",
+            "<strong>"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which attribute opens a link in a new tab?",
+        "options": [
+            "target=\"_self\"",
+            "target=\"_blank\"",
+            "newtab=\"true\"",
+            "open=\"new\""
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which HTML tag is used to define a section of the document?",
+        "options": [
+            "<part>",
+            "<section>",
+            "<div>",
+            "<block>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "easy",
+        "question": "Which tag is used to add a title to an HTML document?",
+        "options": [
+            "<heading>",
+            "<name>",
+            "<title>",
+            "<header>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the purpose of the doctype declaration?",
+        "options": [
+            "To define the document type and version",
+            "To create a title",
+            "To link external files",
+            "To style the page"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which attribute is used to specify alternative text for an image?",
+        "options": [
+            "title",
+            "alt",
+            "src",
+            "longdesc"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which HTML5 element is used to define navigation links?",
+        "options": [
+            "<navigate>",
+            "<links>",
+            "<nav>",
+            "<navigation>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the correct HTML for creating a checkbox?",
+        "options": [
+            "<checkbox>",
+            "<input type=\"checkbox\">",
+            "<check>",
+            "<input type=\"box\">"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which element is used to define an article or independent content?",
+        "options": [
+            "<section>",
+            "<div>",
+            "<article>",
+            "<content>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the difference between `<div>` and `<span>`?",
+        "options": [
+            "They are the same",
+            "<div> is block-level, <span> is inline",
+            "<div> is inline, <span> is block",
+            "<div> is for text only"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which attribute is used to make a form field required?",
+        "options": [
+            "mandatory",
+            "validate",
+            "required",
+            "need"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which HTML5 element is used to draw graphics on the fly?",
+        "options": [
+            "<graphic>",
+            "<canvas>",
+            "<draw>",
+            "<svg>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What does the `colspan` attribute define in a table?",
+        "options": [
+            "Number of rows spanned",
+            "Number of columns spanned",
+            "Border thickness",
+            "Cell color"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which input type defines a slider control?",
+        "options": [
+            "slider",
+            "slide",
+            "range",
+            "scroll"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the purpose of the `<meta>` tag?",
+        "options": [
+            "To create metadata",
+            "To add images",
+            "To create forms",
+            "To style content"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which HTML5 element is used for the header of a section or page?",
+        "options": [
+            "<top>",
+            "<header>",
+            "<head>",
+            "<heading>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the correct HTML for creating a password field?",
+        "options": [
+            "<input type=\"text\">",
+            "<input type=\"password\">",
+            "<password>",
+            "<input type=\"secret\">"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which attribute specifies that an input field is read-only?",
+        "options": [
+            "disabled",
+            "readonly",
+            "locked",
+            "static"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What does the `<label>` tag do?",
+        "options": [
+            "Defines a label for an input",
+            "Creates a heading",
+            "Bolds text",
+            "Inserts an image"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which element is used to define a footer for a document?",
+        "options": [
+            "<bottom>",
+            "<footer>",
+            "<foot>",
+            "<end>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the purpose of the `action` attribute in a form?",
+        "options": [
+            "Defines form name",
+            "Defines where to send form data",
+            "Defines form method",
+            "Defines validation"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which HTML5 element is used for video captions?",
+        "options": [
+            "<caption>",
+            "<track>",
+            "<sub>",
+            "<tt>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the correct HTML for a radio button?",
+        "options": [
+            "<input type=\"radio\">",
+            "<radio>",
+            "<button type=\"radio\">",
+            "<input type=\"toggle\">"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which element is used to define an aside or sidebar content?",
+        "options": [
+            "<sidebar>",
+            "<aside>",
+            "<right>",
+            "<extra>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the difference between `id` and `class` attributes?",
+        "options": [
+            "No difference",
+            "id is unique, class is reusable",
+            "class is unique, id is reusable",
+            "id is for CSS only"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which HTML5 element is used to display a progress bar?",
+        "options": [
+            "<meter>",
+            "<progress>",
+            "<bar>",
+            "<status>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which attribute is used to disable an input field?",
+        "options": [
+            "readonly",
+            "disable",
+            "disabled",
+            "off"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the purpose of the `method` attribute in a form?",
+        "options": [
+            "Defines HTTP method",
+            "Defines form name",
+            "Defines encoding",
+            "Defines target"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which HTML element is used to define a definition description?",
+        "options": [
+            "<dt>",
+            "<dd>",
+            "<dl>",
+            "<desc>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the correct HTML for a text area?",
+        "options": [
+            "<textarea>",
+            "<input type=\"textarea\">",
+            "<textbox>",
+            "<area>"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which element is used to define a definition term?",
+        "options": [
+            "<dt>",
+            "<dd>",
+            "<dl>",
+            "<term>"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What does the `post` method do in forms?",
+        "options": [
+            "Appends data to URL",
+            "Sends data in request body",
+            "Caches the request",
+            "Encrypts data automatically"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which HTML5 input type is for email addresses?",
+        "options": [
+            "text",
+            "email",
+            "url",
+            "mail"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What does the `autocomplete` attribute do?",
+        "options": [
+            "Automatically submits form",
+            "Fills fields based on past input",
+            "Completes HTML tags",
+            "Adds CSS automatically"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which HTML element is used to embed an external application?",
+        "options": [
+            "<embed>",
+            "<object>",
+            "<plugin>",
+            "<app>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the purpose of the `<fieldset>` tag?",
+        "options": [
+            "Groups related form elements",
+            "Sets field properties",
+            "Defines input fields",
+            "Creates borders"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which attribute is used to provide a unique identifier for an element?",
+        "options": [
+            "class",
+            "name",
+            "id",
+            "key"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What does the `rowspan` attribute do?",
+        "options": [
+            "Spans across columns",
+            "Spans across rows",
+            "Spans across pages",
+            "Spans across tables"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which HTML5 element is used to mark up a dialog or conversation?",
+        "options": [
+            "<conversation>",
+            "<dialog>",
+            "<talk>",
+            "<speech>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the correct HTML for a submit button?",
+        "options": [
+            "<button type=\"submit\">",
+            "<input type=\"submit\">",
+            "<submit>",
+            "Both A and B"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which element is used to define a description list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<dl>",
+            "<list>"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the purpose of the `<legend>` tag?",
+        "options": [
+            "Defines a caption for a fieldset",
+            "Adds a legend to an image",
+            "Creates a map key",
+            "Defines a title"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "Which attribute is used to specify the character encoding of an HTML document?",
+        "options": [
+            "lang",
+            "charset",
+            "encoding",
+            "type"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "medium",
+        "question": "What is the correct HTML for a file upload field?",
+        "options": [
+            "<input type=\"file\">",
+            "<fileupload>",
+            "<input type=\"document\">",
+            "<upload>"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the difference between `<strong>` and `<b>` tags?",
+        "options": [
+            "No difference",
+            "<strong> is for importance, <b> is stylistic bold",
+            "<b> is for importance, <strong> is stylistic",
+            "They are interchangeable"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which HTTP method is not supported by HTML forms?",
+        "options": [
+            "GET",
+            "POST",
+            "PUT",
+            "Both A and B"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the purpose of the `sandbox` attribute in an iframe?",
+        "options": [
+            "Enables full access",
+            "Restricts capabilities",
+            "Saves bandwidth",
+            "Encrypts content"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which HTML5 API is used for storing data on the client side?",
+        "options": [
+            "LocalStorage",
+            "IndexedDB",
+            "WebSQL",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What does the `defer` attribute do in a script tag?",
+        "options": [
+            "Executes script immediately",
+            "Delays script execution until page loads",
+            "Deletes script",
+            "Encrypts script"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the difference between `async` and `defer`?",
+        "options": [
+            "Same thing",
+            "async runs when ready, defer runs in order",
+            "defer runs when ready, async runs in order",
+            "Both block rendering"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which HTML5 element is used to specify a date picker?",
+        "options": [
+            "<date>",
+            "<input type=\"date\">",
+            "<calendar>",
+            "<datepicker>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the purpose of the `pattern` attribute?",
+        "options": [
+            "Defines regex for validation",
+            "Creates a pattern background",
+            "Patterns text",
+            "Defines layout pattern"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which element is used to define a color input?",
+        "options": [
+            "<color>",
+            "<input type=\"color\">",
+            "<colour>",
+            "<picker>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the correct HTML for a number spinner?",
+        "options": [
+            "<input type=\"number\">",
+            "<spinner>",
+            "<input type=\"spinner\">",
+            "<number>"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which attribute is used to specify the relationship of a linked document?",
+        "options": [
+            "type",
+            "rel",
+            "ref",
+            "relation"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the purpose of the `<datalist>` tag?",
+        "options": [
+            "Creates a dropdown",
+            "Provides autocomplete options",
+            "Creates a database",
+            "Lists data"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which HTML5 element is used for scalable vector graphics?",
+        "options": [
+            "<canvas>",
+            "<svg>",
+            "<vector>",
+            "<graphics>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the difference between `<figure>` and `<img>`?",
+        "options": [
+            "No difference",
+            "<figure> groups content with caption",
+            "<img> is for icons only",
+            "<figure> is for background images"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which element is used to define a caption for a figure?",
+        "options": [
+            "<caption>",
+            "<figcaption>",
+            "<figurecaption>",
+            "<figtext>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What does the `novalidate` attribute do?",
+        "options": [
+            "Disables form validation",
+            "Enables validation",
+            "Creates a new validation",
+            "No effect"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which input type is used for telephone numbers?",
+        "options": [
+            "text",
+            "tel",
+            "phone",
+            "numeric"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the purpose of the `contenteditable` attribute?",
+        "options": [
+            "Makes element editable",
+            "Edits content programmatically",
+            "Creates content",
+            "Deletes content"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which HTML5 element is used to specify a main content area?",
+        "options": [
+            "<main>",
+            "<content>",
+            "<body>",
+            "<primary>"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the correct HTML for a month picker?",
+        "options": [
+            "<input type=\"month\">",
+            "<monthpicker>",
+            "<input type=\"date-month\">",
+            "<calendar>"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which element is used to define a mark or highlighted text?",
+        "options": [
+            "<highlight>",
+            "<mark>",
+            "<strong>",
+            "<em>"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the purpose of the `<optgroup>` tag?",
+        "options": [
+            "Groups options in a select",
+            "Groups input fields",
+            "Creates a group of forms",
+            "Groups tables"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which attribute is used to specify the MIME type of an embedded object?",
+        "options": [
+            "type",
+            "mime",
+            "format",
+            "encoding"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What does the `ismap` attribute do in an image?",
+        "options": [
+            "Defines server-side image map",
+            "Defines client-side image map",
+            "Maps the image",
+            "Creates a sitemap"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which HTML5 element is used to specify a time or date?",
+        "options": [
+            "<time>",
+            "<date>",
+            "<datetime>",
+            "<clock>"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the correct HTML for a week picker?",
+        "options": [
+            "<input type=\"week\">",
+            "<weekpicker>",
+            "<input type=\"date-week\">",
+            "<calendar>"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which element is used to define an abbreviation or acronym?",
+        "options": [
+            "<abbr>",
+            "<acronym>",
+            "<short>",
+            "<abbrev>"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What is the purpose of the `<bdi>` tag?",
+        "options": [
+            "Bi-directional isolation",
+            "Bold text",
+            "Big display",
+            "Background image"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "Which attribute is used to specify the coordinates of an area in an image map?",
+        "options": [
+            "coords",
+            "shape",
+            "area",
+            "map"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "subject": "html",
+        "difficulty": "hard",
+        "question": "What does the `crossorigin` attribute do in a script tag?",
+        "options": [
+            "Handles CORS requests",
+            "Crosses origin",
+            "Creates cross references",
+            "Cross compiles"
+        ],
+        "correctAnswer": 0
+    }
+]

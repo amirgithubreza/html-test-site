@@ -1,0 +1,2849 @@
+{
+  "appName": "CodeQuiz",
+  "description": "Live fallback data — place this file as live.json next to index.html",
+  "lastUpdated": "2026-02-11T23:48:33.518Z",
+  "users": [
+    {
+      "id": "admin-1",
+      "username": "admin",
+      "password": "admin123",
+      "isAdmin": true,
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "user-1770851796602-jkp7",
+      "username": "amir",
+      "password": "amir",
+      "isAdmin": false,
+      "createdAt": "2026-02-11T23:16:36.602Z"
+    },
+    {
+      "id": "user-1770851895169-2ll7",
+      "username": "ali",
+      "password": "alii",
+      "isAdmin": false,
+      "createdAt": "2026-02-11T23:18:15.169Z"
+    },
+    {
+      "id": "guest-1770852060103-wmoz",
+      "username": "Guest_BYJY",
+      "password": "",
+      "isAdmin": false,
+      "isGuest": true,
+      "createdAt": "2026-02-11T23:21:00.103Z"
+    }
+  ],
+  "questions": [
+    {
+      "id": "html-e-1",
+      "subject": "html",
+      "difficulty": "easy",
+      "question": "What does HTML stand for?",
+      "options": [
+        "HyperText Markup Language",
+        "High Tech Modern Language",
+        "HyperTransfer Markup Language",
+        "Home Tool Markup Language"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "html-e-2",
+      "subject": "html",
+      "difficulty": "easy",
+      "question": "Which HTML element is used for the largest heading?",
+      "options": [
+        "<heading>",
+        "<h6>",
+        "<h1>",
+        "<head>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "html-e-3",
+      "subject": "html",
+      "difficulty": "easy",
+      "question": "Which tag is used to create a paragraph?",
+      "options": [
+        "<para>",
+        "<p>",
+        "<text>",
+        "<pg>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-e-4",
+      "subject": "html",
+      "difficulty": "easy",
+      "question": "Which HTML tag is used to insert an image?",
+      "options": [
+        "<picture>",
+        "<image>",
+        "<img>",
+        "<photo>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "html-e-5",
+      "subject": "html",
+      "difficulty": "easy",
+      "question": "What is the correct HTML element for inserting a line break?",
+      "options": [
+        "<break>",
+        "<lb>",
+        "<newline>",
+        "<br>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "html-e-6",
+      "subject": "html",
+      "difficulty": "easy",
+      "question": "Which tag creates a hyperlink?",
+      "options": [
+        "<link>",
+        "<a>",
+        "<href>",
+        "<url>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-e-7",
+      "subject": "html",
+      "difficulty": "easy",
+      "question": "Which tag is used for an unordered list?",
+      "options": [
+        "<ol>",
+        "<list>",
+        "<ul>",
+        "<li>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "html-m-1",
+      "subject": "html",
+      "difficulty": "medium",
+      "question": "Which HTML element defines the title of a document?",
+      "options": [
+        "<meta>",
+        "<head>",
+        "<title>",
+        "<header>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "html-m-2",
+      "subject": "html",
+      "difficulty": "medium",
+      "question": "What is the purpose of the alt attribute in the <img> tag?",
+      "options": [
+        "To set image alignment",
+        "To provide alternative text when image cannot load",
+        "To set image size",
+        "To add a tooltip"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-m-3",
+      "subject": "html",
+      "difficulty": "medium",
+      "question": "Which HTML5 element is used for navigation links?",
+      "options": [
+        "<navigation>",
+        "<nav>",
+        "<menu>",
+        "<links>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-m-4",
+      "subject": "html",
+      "difficulty": "medium",
+      "question": "Which input type creates a date picker?",
+      "options": [
+        "calendar",
+        "datetime",
+        "date",
+        "picker"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "html-m-5",
+      "subject": "html",
+      "difficulty": "medium",
+      "question": "What does the <figure> element represent in HTML5?",
+      "options": [
+        "An image gallery",
+        "Self-contained content with optional caption",
+        "A mathematical figure",
+        "A diagram only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-m-6",
+      "subject": "html",
+      "difficulty": "medium",
+      "question": "Which attribute is used to specify that an input field must be filled out?",
+      "options": [
+        "validate",
+        "required",
+        "mandatory",
+        "placeholder"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-m-7",
+      "subject": "html",
+      "difficulty": "medium",
+      "question": "What is the correct HTML for making a checkbox?",
+      "options": [
+        "<input type=\"check\">",
+        "<checkbox>",
+        "<input type=\"checkbox\">",
+        "<check>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "html-h-1",
+      "subject": "html",
+      "difficulty": "hard",
+      "question": "What is the Shadow DOM used for?",
+      "options": [
+        "Creating shadow effects on elements",
+        "Encapsulating DOM and styles within a component",
+        "Hiding elements from the page",
+        "Server-side rendering"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-h-2",
+      "subject": "html",
+      "difficulty": "hard",
+      "question": "Which attribute makes an HTML element editable by the user?",
+      "options": [
+        "editable",
+        "contenteditable",
+        "user-edit",
+        "canEdit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-h-3",
+      "subject": "html",
+      "difficulty": "hard",
+      "question": "What is the purpose of the <template> element in HTML5?",
+      "options": [
+        "To create email templates",
+        "Holds content that is not rendered until activated by JavaScript",
+        "To define page layout templates",
+        "To import external HTML files"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-h-4",
+      "subject": "html",
+      "difficulty": "hard",
+      "question": "What does the defer attribute do in a script tag?",
+      "options": [
+        "Downloads script asynchronously",
+        "Delays script execution until after HTML parsing is complete",
+        "Defers script to web worker",
+        "Prevents script from executing"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-h-5",
+      "subject": "html",
+      "difficulty": "hard",
+      "question": "What is the purpose of the srcset attribute in the <img> tag?",
+      "options": [
+        "To set multiple source files for fallback",
+        "To provide different images for different screen resolutions",
+        "To preload images",
+        "To lazy load images"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-h-6",
+      "subject": "html",
+      "difficulty": "hard",
+      "question": "Which Web API allows you to observe changes to the DOM tree?",
+      "options": [
+        "DOMWatcher",
+        "MutationObserver",
+        "TreeObserver",
+        "DOMListener"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "html-h-7",
+      "subject": "html",
+      "difficulty": "hard",
+      "question": "What is the purpose of the <slot> element in Web Components?",
+      "options": [
+        "To create animation slots",
+        "To define placeholders for distributable content",
+        "To reserve memory slots",
+        "To create input fields"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-e-1",
+      "subject": "css",
+      "difficulty": "easy",
+      "question": "Which property is used to change the text color of an element?",
+      "options": [
+        "text-color",
+        "font-color",
+        "color",
+        "foreground"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "css-e-2",
+      "subject": "css",
+      "difficulty": "easy",
+      "question": "What does CSS stand for?",
+      "options": [
+        "Computer Style Sheets",
+        "Creative Style System",
+        "Cascading Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "css-e-3",
+      "subject": "css",
+      "difficulty": "easy",
+      "question": "Which property adds space inside an element's border?",
+      "options": [
+        "margin",
+        "spacing",
+        "padding",
+        "border-space"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "css-e-4",
+      "subject": "css",
+      "difficulty": "easy",
+      "question": "How do you select an element with the id \"main\" in CSS?",
+      "options": [
+        ".main",
+        "#main",
+        "*main",
+        "main"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-e-5",
+      "subject": "css",
+      "difficulty": "easy",
+      "question": "Which property sets the background color?",
+      "options": [
+        "bgcolor",
+        "color",
+        "background-color",
+        "bg"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "css-e-6",
+      "subject": "css",
+      "difficulty": "easy",
+      "question": "Which property changes the font size?",
+      "options": [
+        "text-size",
+        "font-style",
+        "font-size",
+        "text-style"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "css-e-7",
+      "subject": "css",
+      "difficulty": "easy",
+      "question": "How do you select elements with class name \"btn\"?",
+      "options": [
+        "#btn",
+        ".btn",
+        "*btn",
+        "btn"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-m-1",
+      "subject": "css",
+      "difficulty": "medium",
+      "question": "What is the default value of the position property?",
+      "options": [
+        "relative",
+        "absolute",
+        "fixed",
+        "static"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "css-m-2",
+      "subject": "css",
+      "difficulty": "medium",
+      "question": "Which property is used to create rounded corners?",
+      "options": [
+        "corner-radius",
+        "border-radius",
+        "round-corner",
+        "border-curve"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-m-3",
+      "subject": "css",
+      "difficulty": "medium",
+      "question": "What does z-index control?",
+      "options": [
+        "Zoom level",
+        "Element opacity",
+        "The stacking order of positioned elements",
+        "Element rotation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "css-m-4",
+      "subject": "css",
+      "difficulty": "medium",
+      "question": "Which CSS unit is relative to the root element's font-size?",
+      "options": [
+        "em",
+        "px",
+        "rem",
+        "%"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "css-m-5",
+      "subject": "css",
+      "difficulty": "medium",
+      "question": "What is the CSS Box Model composed of (inside out)?",
+      "options": [
+        "Border, Padding, Margin, Content",
+        "Content, Padding, Border, Margin",
+        "Margin, Border, Content, Padding",
+        "Content, Border, Padding, Margin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-m-6",
+      "subject": "css",
+      "difficulty": "medium",
+      "question": "Which property makes text bold?",
+      "options": [
+        "text-weight",
+        "font-weight",
+        "font-bold",
+        "text-bold"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-m-7",
+      "subject": "css",
+      "difficulty": "medium",
+      "question": "What does \"display: flex\" do?",
+      "options": [
+        "Makes element hidden",
+        "Creates a flexible box layout",
+        "Makes element inline",
+        "Adds flexibility to animations"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-h-1",
+      "subject": "css",
+      "difficulty": "hard",
+      "question": "What is the CSS specificity hierarchy (highest to lowest)?",
+      "options": [
+        "Classes > IDs > Elements > Inline",
+        "Inline styles > IDs > Classes/Attributes > Elements",
+        "IDs > Inline > Classes > Elements",
+        "Elements > Classes > IDs > Inline"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-h-2",
+      "subject": "css",
+      "difficulty": "hard",
+      "question": "What does the CSS calc() function allow you to do?",
+      "options": [
+        "Calculate animations",
+        "Perform mathematical calculations for property values",
+        "Count DOM elements",
+        "Calculate page load time"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-h-3",
+      "subject": "css",
+      "difficulty": "hard",
+      "question": "What is the key difference between CSS Grid and Flexbox?",
+      "options": [
+        "Grid is newer than Flexbox",
+        "Grid is for 2D layouts, Flexbox is for 1D layouts",
+        "Flexbox is more powerful",
+        "There is no difference"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-h-4",
+      "subject": "css",
+      "difficulty": "hard",
+      "question": "What are CSS custom properties (variables)?",
+      "options": [
+        "Pre-built CSS values",
+        "Reusable values defined with -- prefix and accessed with var()",
+        "JavaScript variables in CSS",
+        "Sass variables compiled to CSS"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-h-5",
+      "subject": "css",
+      "difficulty": "hard",
+      "question": "What is the purpose of the @supports at-rule?",
+      "options": [
+        "Adding browser support",
+        "Conditional styling based on browser CSS feature support",
+        "Supporting multiple stylesheets",
+        "Media query alternative"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-h-6",
+      "subject": "css",
+      "difficulty": "hard",
+      "question": "What does the \"will-change\" property do?",
+      "options": [
+        "Changes element dynamically",
+        "Hints the browser about upcoming changes for optimization",
+        "Triggers CSS transitions",
+        "Schedules property changes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "css-h-7",
+      "subject": "css",
+      "difficulty": "hard",
+      "question": "What is a CSS containment and what does \"contain: layout\" do?",
+      "options": [
+        "Contains overflowing content",
+        "Isolates the layout calculations of an element from the rest of the page",
+        "Creates a container query",
+        "Wraps content in a container"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-e-1",
+      "subject": "javascript",
+      "difficulty": "easy",
+      "question": "Which keyword is used to declare a constant variable in JavaScript?",
+      "options": [
+        "var",
+        "let",
+        "const",
+        "static"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "js-e-2",
+      "subject": "javascript",
+      "difficulty": "easy",
+      "question": "What does console.log() do?",
+      "options": [
+        "Creates a log file",
+        "Outputs a message to the browser console",
+        "Logs user actions",
+        "Displays an alert"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-e-3",
+      "subject": "javascript",
+      "difficulty": "easy",
+      "question": "Which method adds an element to the end of an array?",
+      "options": [
+        "append()",
+        "add()",
+        "push()",
+        "insert()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "js-e-4",
+      "subject": "javascript",
+      "difficulty": "easy",
+      "question": "What is the result of typeof null in JavaScript?",
+      "options": [
+        "\"null\"",
+        "\"undefined\"",
+        "\"object\"",
+        "\"boolean\""
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "js-e-5",
+      "subject": "javascript",
+      "difficulty": "easy",
+      "question": "How do you write a single-line comment in JavaScript?",
+      "options": [
+        "<!-- comment -->",
+        "/* comment */",
+        "// comment",
+        "# comment"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "js-e-6",
+      "subject": "javascript",
+      "difficulty": "easy",
+      "question": "Which operator is used for strict equality?",
+      "options": [
+        "==",
+        "===",
+        "!=",
+        "="
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-e-7",
+      "subject": "javascript",
+      "difficulty": "easy",
+      "question": "What does the \"length\" property of an array return?",
+      "options": [
+        "The last index",
+        "The number of elements",
+        "The size in bytes",
+        "The array type"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-m-1",
+      "subject": "javascript",
+      "difficulty": "medium",
+      "question": "What is a closure in JavaScript?",
+      "options": [
+        "A way to close the browser",
+        "A function that has access to variables from its outer (enclosing) scope",
+        "A method to end a loop",
+        "A way to close database connections"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-m-2",
+      "subject": "javascript",
+      "difficulty": "medium",
+      "question": "What does Promise.all() do?",
+      "options": [
+        "Creates a new promise",
+        "Resolves when all promises in the array resolve, or rejects if any rejects",
+        "Cancels all promises",
+        "Runs promises sequentially"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-m-3",
+      "subject": "javascript",
+      "difficulty": "medium",
+      "question": "What is event delegation?",
+      "options": [
+        "Assigning events to delegates",
+        "Handling events on a parent element instead of individual children",
+        "Removing event listeners",
+        "Creating custom events"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-m-4",
+      "subject": "javascript",
+      "difficulty": "medium",
+      "question": "What is the difference between == and === in JavaScript?",
+      "options": [
+        "No difference",
+        "=== checks both value and type, == only checks value with coercion",
+        "== is faster",
+        "=== is deprecated"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-m-5",
+      "subject": "javascript",
+      "difficulty": "medium",
+      "question": "What does the spread operator (...) do?",
+      "options": [
+        "Spreads errors across the app",
+        "Expands an iterable into individual elements",
+        "Creates a new array",
+        "Merges two functions"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-m-6",
+      "subject": "javascript",
+      "difficulty": "medium",
+      "question": "What does Array.prototype.map() return?",
+      "options": [
+        "The original array modified",
+        "A new array with results of calling a function on every element",
+        "A Map object",
+        "undefined"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-m-7",
+      "subject": "javascript",
+      "difficulty": "medium",
+      "question": "What is \"hoisting\" in JavaScript?",
+      "options": [
+        "Lifting DOM elements",
+        "Moving declarations to the top of their scope before execution",
+        "Raising errors",
+        "Promoting variables to global scope"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-h-1",
+      "subject": "javascript",
+      "difficulty": "hard",
+      "question": "What is the JavaScript event loop?",
+      "options": [
+        "A type of for loop",
+        "A mechanism that handles asynchronous callbacks using a call stack and task queue",
+        "An event handler",
+        "A loop that listens for DOM events"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-h-2",
+      "subject": "javascript",
+      "difficulty": "hard",
+      "question": "What is a WeakMap in JavaScript?",
+      "options": [
+        "A Map with fewer features",
+        "A Map where keys are weakly referenced, must be objects, and can be garbage collected",
+        "A Map that uses less memory",
+        "A Map that only stores strings"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-h-3",
+      "subject": "javascript",
+      "difficulty": "hard",
+      "question": "What is the Temporal Dead Zone (TDZ)?",
+      "options": [
+        "A timezone handling bug",
+        "The period between entering scope and variable declaration where let/const cannot be accessed",
+        "A memory leak zone",
+        "The time between page loads"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-h-4",
+      "subject": "javascript",
+      "difficulty": "hard",
+      "question": "What is a generator function in JavaScript?",
+      "options": [
+        "A function that generates HTML",
+        "A function declared with function* that can pause and resume execution using yield",
+        "A constructor function",
+        "A function that creates other functions"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-h-5",
+      "subject": "javascript",
+      "difficulty": "hard",
+      "question": "What does Object.defineProperty() allow you to do?",
+      "options": [
+        "Create new objects",
+        "Define or modify a property with specific descriptors like writable, enumerable, configurable",
+        "Delete object properties",
+        "Copy objects"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-h-6",
+      "subject": "javascript",
+      "difficulty": "hard",
+      "question": "What is the purpose of Symbol in JavaScript?",
+      "options": [
+        "Creating icons",
+        "Creating unique, immutable primitive values often used as object property keys",
+        "Symbolic math operations",
+        "String formatting"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "js-h-7",
+      "subject": "javascript",
+      "difficulty": "hard",
+      "question": "What is a Proxy object in JavaScript?",
+      "options": [
+        "A network proxy",
+        "An object that wraps another object and intercepts/redefines fundamental operations",
+        "A copy of an object",
+        "A deprecated feature"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-e-1",
+      "subject": "python",
+      "difficulty": "easy",
+      "question": "How do you output text in Python?",
+      "options": [
+        "echo()",
+        "console.log()",
+        "print()",
+        "System.out.println()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "py-e-2",
+      "subject": "python",
+      "difficulty": "easy",
+      "question": "Which keyword is used to define a function in Python?",
+      "options": [
+        "function",
+        "func",
+        "def",
+        "define"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "py-e-3",
+      "subject": "python",
+      "difficulty": "easy",
+      "question": "What is the correct file extension for Python files?",
+      "options": [
+        ".python",
+        ".pt",
+        ".pyt",
+        ".py"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "py-e-4",
+      "subject": "python",
+      "difficulty": "easy",
+      "question": "How do you create a list in Python?",
+      "options": [
+        "list()",
+        "Using curly braces {}",
+        "Using square brackets []",
+        "Using parentheses ()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "py-e-5",
+      "subject": "python",
+      "difficulty": "easy",
+      "question": "Which keyword is used for conditional statements in Python?",
+      "options": [
+        "switch",
+        "case",
+        "if",
+        "when"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "py-e-6",
+      "subject": "python",
+      "difficulty": "easy",
+      "question": "How do you start a comment in Python?",
+      "options": [
+        "//",
+        "/*",
+        "#",
+        "--"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "py-e-7",
+      "subject": "python",
+      "difficulty": "easy",
+      "question": "Which keyword is used for loops that iterate over a sequence?",
+      "options": [
+        "foreach",
+        "loop",
+        "for",
+        "iterate"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "py-m-1",
+      "subject": "python",
+      "difficulty": "medium",
+      "question": "What is a list comprehension in Python?",
+      "options": [
+        "A way to understand lists",
+        "A concise way to create lists using a single expression",
+        "A list sorting method",
+        "A type of linked list"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-m-2",
+      "subject": "python",
+      "difficulty": "medium",
+      "question": "What does *args do in a function definition?",
+      "options": [
+        "Creates argument errors",
+        "Allows the function to accept any number of positional arguments as a tuple",
+        "Multiplies arguments",
+        "Makes arguments optional"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-m-3",
+      "subject": "python",
+      "difficulty": "medium",
+      "question": "What is the difference between a list and a tuple in Python?",
+      "options": [
+        "No difference",
+        "Lists are mutable, tuples are immutable",
+        "Tuples are faster",
+        "Lists can only hold strings"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-m-4",
+      "subject": "python",
+      "difficulty": "medium",
+      "question": "What does the \"with\" statement do in Python?",
+      "options": [
+        "Imports modules",
+        "Provides a context manager for automatic resource management",
+        "Creates aliases",
+        "Defines scope"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-m-5",
+      "subject": "python",
+      "difficulty": "medium",
+      "question": "What is PEP 8?",
+      "options": [
+        "A Python library",
+        "The official style guide for writing Python code",
+        "A Python version",
+        "A testing framework"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-m-6",
+      "subject": "python",
+      "difficulty": "medium",
+      "question": "What does the \"lambda\" keyword create?",
+      "options": [
+        "A new class",
+        "An anonymous (unnamed) function",
+        "A loop",
+        "A variable"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-m-7",
+      "subject": "python",
+      "difficulty": "medium",
+      "question": "What is a dictionary in Python?",
+      "options": [
+        "A word lookup tool",
+        "A collection of key-value pairs enclosed in curly braces",
+        "An ordered list",
+        "A text file"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-h-1",
+      "subject": "python",
+      "difficulty": "hard",
+      "question": "What are metaclasses in Python?",
+      "options": [
+        "A type of inheritance",
+        "Classes whose instances are themselves classes, controlling class creation",
+        "Abstract classes",
+        "Deprecated feature"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-h-2",
+      "subject": "python",
+      "difficulty": "hard",
+      "question": "What is the GIL (Global Interpreter Lock) in CPython?",
+      "options": [
+        "A security feature",
+        "A mutex that allows only one thread to execute Python bytecode at a time",
+        "A garbage collector",
+        "A file locking mechanism"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-h-3",
+      "subject": "python",
+      "difficulty": "hard",
+      "question": "What is a decorator in Python?",
+      "options": [
+        "A design pattern only",
+        "A function/class that modifies the behavior of another function or class using @syntax",
+        "A CSS-like styling for Python",
+        "A documentation tool"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-h-4",
+      "subject": "python",
+      "difficulty": "hard",
+      "question": "What is the MRO (Method Resolution Order) in Python?",
+      "options": [
+        "Module loading order",
+        "The order in which base classes are searched when executing a method (C3 linearization)",
+        "Method return order",
+        "Memory reclamation order"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-h-5",
+      "subject": "python",
+      "difficulty": "hard",
+      "question": "What are coroutines in Python?",
+      "options": [
+        "Multi-threaded functions",
+        "Functions that can suspend and resume execution, used with async/await",
+        "Core library routines",
+        "Recursive functions"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-h-6",
+      "subject": "python",
+      "difficulty": "hard",
+      "question": "What is the descriptor protocol in Python?",
+      "options": [
+        "A network protocol",
+        "A protocol where objects define __get__, __set__, __delete__ to customize attribute access",
+        "A file format",
+        "A serialization method"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "py-h-7",
+      "subject": "python",
+      "difficulty": "hard",
+      "question": "What does __slots__ do in a Python class?",
+      "options": [
+        "Creates time slots",
+        "Restricts instance attributes to declared names, saving memory by avoiding __dict__",
+        "Defines method slots",
+        "Creates database slots"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-e-1",
+      "subject": "csharp",
+      "difficulty": "easy",
+      "question": "Which keyword is used to declare a class in C#?",
+      "options": [
+        "struct",
+        "object",
+        "class",
+        "type"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cs-e-2",
+      "subject": "csharp",
+      "difficulty": "easy",
+      "question": "What is the entry point of a C# console application?",
+      "options": [
+        "Start()",
+        "Run()",
+        "Main()",
+        "Begin()"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cs-e-3",
+      "subject": "csharp",
+      "difficulty": "easy",
+      "question": "Which data type is used to store text in C#?",
+      "options": [
+        "text",
+        "char",
+        "string",
+        "varchar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cs-e-4",
+      "subject": "csharp",
+      "difficulty": "easy",
+      "question": "How do you write a single-line comment in C#?",
+      "options": [
+        "# comment",
+        "<!-- comment -->",
+        "// comment",
+        "** comment"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cs-e-5",
+      "subject": "csharp",
+      "difficulty": "easy",
+      "question": "Which keyword is used to create a new object instance?",
+      "options": [
+        "create",
+        "instance",
+        "new",
+        "init"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cs-e-6",
+      "subject": "csharp",
+      "difficulty": "easy",
+      "question": "Which keyword is used to define a namespace?",
+      "options": [
+        "module",
+        "package",
+        "namespace",
+        "scope"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cs-e-7",
+      "subject": "csharp",
+      "difficulty": "easy",
+      "question": "What is the keyword for boolean true in C#?",
+      "options": [
+        "TRUE",
+        "True",
+        "true",
+        "yes"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "cs-m-1",
+      "subject": "csharp",
+      "difficulty": "medium",
+      "question": "What is an interface in C#?",
+      "options": [
+        "A graphical user interface",
+        "A contract that defines methods and properties a class must implement",
+        "A type of class",
+        "A database connection"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-m-2",
+      "subject": "csharp",
+      "difficulty": "medium",
+      "question": "What is the difference between a struct and a class in C#?",
+      "options": [
+        "No difference",
+        "Structs are value types stored on stack, classes are reference types on heap",
+        "Structs are faster",
+        "Classes cannot have methods"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-m-3",
+      "subject": "csharp",
+      "difficulty": "medium",
+      "question": "What does the \"virtual\" keyword do in C#?",
+      "options": [
+        "Creates virtual memory",
+        "Allows a method to be overridden in derived classes",
+        "Makes a method static",
+        "Creates a virtual machine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-m-4",
+      "subject": "csharp",
+      "difficulty": "medium",
+      "question": "What is LINQ in C#?",
+      "options": [
+        "A web framework",
+        "Language Integrated Query - query capabilities built into C#",
+        "A testing library",
+        "A database engine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-m-5",
+      "subject": "csharp",
+      "difficulty": "medium",
+      "question": "What is a delegate in C#?",
+      "options": [
+        "A design pattern",
+        "A type-safe reference to a method or group of methods",
+        "A thread manager",
+        "An event handler only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-m-6",
+      "subject": "csharp",
+      "difficulty": "medium",
+      "question": "What is the purpose of the \"sealed\" keyword?",
+      "options": [
+        "Encrypts a class",
+        "Prevents a class from being inherited",
+        "Locks a variable",
+        "Closes a file"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-m-7",
+      "subject": "csharp",
+      "difficulty": "medium",
+      "question": "What are properties in C#?",
+      "options": [
+        "CSS properties",
+        "Members that provide a mechanism to read, write, or compute private field values",
+        "Configuration settings",
+        "Database columns"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-h-1",
+      "subject": "csharp",
+      "difficulty": "hard",
+      "question": "What is reflection in C#?",
+      "options": [
+        "Mirror imaging of objects",
+        "The ability to inspect and manipulate type metadata and objects at runtime",
+        "A debugging technique",
+        "Code review process"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-h-2",
+      "subject": "csharp",
+      "difficulty": "hard",
+      "question": "What is the async/await pattern in C#?",
+      "options": [
+        "Multi-threading",
+        "A pattern for writing non-blocking asynchronous code that reads like synchronous code",
+        "Parallel processing",
+        "Event-driven architecture"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-h-3",
+      "subject": "csharp",
+      "difficulty": "hard",
+      "question": "What is the difference between Task and Thread in C#?",
+      "options": [
+        "They are the same",
+        "Task is a higher-level abstraction using the thread pool, Thread is a low-level OS thread",
+        "Thread is newer",
+        "Task is synchronous"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-h-4",
+      "subject": "csharp",
+      "difficulty": "hard",
+      "question": "What is dependency injection in C#?",
+      "options": [
+        "Installing NuGet packages",
+        "A design pattern that provides dependencies to objects rather than having them create dependencies",
+        "Injecting code at runtime",
+        "Dynamic linking"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-h-5",
+      "subject": "csharp",
+      "difficulty": "hard",
+      "question": "What is the purpose of the \"using\" statement in C#?",
+      "options": [
+        "Importing namespaces only",
+        "Ensures IDisposable resources are properly disposed when no longer needed",
+        "Creating aliases",
+        "Defining scope"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-h-6",
+      "subject": "csharp",
+      "difficulty": "hard",
+      "question": "What are covariance and contravariance in C# generics?",
+      "options": [
+        "Type casting methods",
+        "Covariance allows using a more derived type, contravariance allows a less derived type in generic type parameters",
+        "Error handling patterns",
+        "Memory management techniques"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "cs-h-7",
+      "subject": "csharp",
+      "difficulty": "hard",
+      "question": "What is the Span<T> type in C#?",
+      "options": [
+        "A UI component",
+        "A type-safe, memory-safe view over contiguous memory without heap allocation",
+        "A collection type",
+        "A string format"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-0",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "What does HTML stand for?",
+      "options": [
+        "Home Tool Markup Language",
+        "High Tech Modern Language",
+        "HyperText Markup Language",
+        "HyperTransfer Markup Language"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-1",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which HTML element is used for the largest heading?",
+      "options": [
+        "<head>",
+        "<heading>",
+        "<h6>",
+        "<h1>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321025-2",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used to create a paragraph?",
+      "options": [
+        "<p>",
+        "<pg>",
+        "<text>",
+        "<para>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-3",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which HTML tag is used to insert an image?",
+      "options": [
+        "<img>",
+        "<photo>",
+        "<picture>",
+        "<image>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-4",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "What is the correct HTML element for inserting a line break?",
+      "options": [
+        "<newline>",
+        "<lb>",
+        "<break>",
+        "<br>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321025-5",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag creates a hyperlink?",
+      "options": [
+        "<link>",
+        "<url>",
+        "<href>",
+        "<a>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321025-6",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used for an unordered list?",
+      "options": [
+        "<li>",
+        "<ul>",
+        "<ol>",
+        "<list>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-7",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which HTML tag is used to define bold text?",
+      "options": [
+        "<strong>",
+        "<bold>",
+        "Both <b> and <strong>",
+        "<b>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-8",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used to create a table in HTML?",
+      "options": [
+        "<table>",
+        "<tab>",
+        "<grid>",
+        "<tbl>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-9",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "What is the correct HTML tag for italic text?",
+      "options": [
+        "<slant>",
+        "<it>",
+        "<i>",
+        "<italic>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-10",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used for a table row?",
+      "options": [
+        "<td>",
+        "<row>",
+        "<tr>",
+        "<th>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-11",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used for an ordered list?",
+      "options": [
+        "<ul>",
+        "<dl>",
+        "<ol>",
+        "<list>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-12",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which attribute specifies the URL for a link?",
+      "options": [
+        "link",
+        "src",
+        "href",
+        "url"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-13",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which HTML element defines a list item?",
+      "options": [
+        "<li>",
+        "<il>",
+        "<list>",
+        "<item>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-14",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "What is the root element of an HTML page?",
+      "options": [
+        "<html>",
+        "<head>",
+        "<body>",
+        "<root>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-15",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag contains the visible content of an HTML page?",
+      "options": [
+        "<content>",
+        "<main>",
+        "<head>",
+        "<body>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321025-16",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used to create a horizontal line?",
+      "options": [
+        "<hr>",
+        "<hl>",
+        "<hline>",
+        "<line>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-17",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which attribute is used to specify the source of an image?",
+      "options": [
+        "source",
+        "link",
+        "href",
+        "src"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321025-18",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used to define a form in HTML?",
+      "options": [
+        "<submit>",
+        "<field>",
+        "<input>",
+        "<form>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321025-19",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used for a text input field?",
+      "options": [
+        "<text>",
+        "<input>",
+        "<field>",
+        "<textfield>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-20",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which HTML tag is used to display a video?",
+      "options": [
+        "<video>",
+        "<play>",
+        "<media>",
+        "<movie>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-21",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used to create a dropdown list?",
+      "options": [
+        "<dropdown>",
+        "<list>",
+        "<select>",
+        "<input>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-22",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag defines a table header cell?",
+      "options": [
+        "<head>",
+        "<thead>",
+        "<th>",
+        "<header>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-23",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag defines a table data cell?",
+      "options": [
+        "<data>",
+        "<tc>",
+        "<cell>",
+        "<td>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321025-24",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which HTML element is used to embed audio?",
+      "options": [
+        "<sound>",
+        "<audio>",
+        "<mp3>",
+        "<music>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-25",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "What is the correct HTML for creating a button?",
+      "options": [
+        "<input type=\"button\">",
+        "Both <input type=\"button\"> and <button>",
+        "<button>",
+        "<btn>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-26",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used to define emphasized text?",
+      "options": [
+        "<strong>",
+        "<emphasis>",
+        "<em>",
+        "<italic>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-27",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which attribute opens a link in a new tab?",
+      "options": [
+        "open=\"new\"",
+        "newtab=\"true\"",
+        "target=\"_blank\"",
+        "target=\"_self\""
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-28",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which HTML tag is used to define a section of the document?",
+      "options": [
+        "<section>",
+        "<block>",
+        "<part>",
+        "<div>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-29",
+      "subject": "sss",
+      "difficulty": "easy",
+      "question": "Which tag is used to add a title to an HTML document?",
+      "options": [
+        "<name>",
+        "<title>",
+        "<heading>",
+        "<header>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-30",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the purpose of the doctype declaration?",
+      "options": [
+        "To link external files",
+        "To create a title",
+        "To define the document type and version",
+        "To style the page"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-31",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which attribute is used to specify alternative text for an image?",
+      "options": [
+        "src",
+        "alt",
+        "longdesc",
+        "title"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-32",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which HTML5 element is used to define navigation links?",
+      "options": [
+        "<nav>",
+        "<links>",
+        "<navigation>",
+        "<navigate>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-33",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the correct HTML for creating a checkbox?",
+      "options": [
+        "<checkbox>",
+        "<check>",
+        "<input type=\"box\">",
+        "<input type=\"checkbox\">"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321025-34",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which element is used to define an article or independent content?",
+      "options": [
+        "<div>",
+        "<content>",
+        "<article>",
+        "<section>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-35",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the difference between `<div>` and `<span>`?",
+      "options": [
+        "<div> is inline, <span> is block",
+        "<div> is block-level, <span> is inline",
+        "They are the same",
+        "<div> is for text only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-36",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which attribute is used to make a form field required?",
+      "options": [
+        "validate",
+        "required",
+        "mandatory",
+        "need"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-37",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which HTML5 element is used to draw graphics on the fly?",
+      "options": [
+        "<graphic>",
+        "<draw>",
+        "<canvas>",
+        "<svg>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-38",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What does the `colspan` attribute define in a table?",
+      "options": [
+        "Border thickness",
+        "Number of rows spanned",
+        "Number of columns spanned",
+        "Cell color"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-39",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which input type defines a slider control?",
+      "options": [
+        "scroll",
+        "range",
+        "slider",
+        "slide"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-40",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the purpose of the `<meta>` tag?",
+      "options": [
+        "To add images",
+        "To style content",
+        "To create metadata",
+        "To create forms"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-41",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which HTML5 element is used for the header of a section or page?",
+      "options": [
+        "<head>",
+        "<header>",
+        "<heading>",
+        "<top>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-42",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the correct HTML for creating a password field?",
+      "options": [
+        "<input type=\"password\">",
+        "<password>",
+        "<input type=\"secret\">",
+        "<input type=\"text\">"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-43",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which attribute specifies that an input field is read-only?",
+      "options": [
+        "locked",
+        "disabled",
+        "readonly",
+        "static"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-44",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What does the `<label>` tag do?",
+      "options": [
+        "Defines a label for an input",
+        "Creates a heading",
+        "Bolds text",
+        "Inserts an image"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-45",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which element is used to define a footer for a document?",
+      "options": [
+        "<bottom>",
+        "<footer>",
+        "<end>",
+        "<foot>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-46",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the purpose of the `action` attribute in a form?",
+      "options": [
+        "Defines form name",
+        "Defines validation",
+        "Defines where to send form data",
+        "Defines form method"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-47",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which HTML5 element is used for video captions?",
+      "options": [
+        "<track>",
+        "<sub>",
+        "<caption>",
+        "<tt>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-48",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the correct HTML for a radio button?",
+      "options": [
+        "<input type=\"toggle\">",
+        "<input type=\"radio\">",
+        "<button type=\"radio\">",
+        "<radio>"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-49",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which element is used to define an aside or sidebar content?",
+      "options": [
+        "<extra>",
+        "<right>",
+        "<sidebar>",
+        "<aside>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321025-50",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the difference between `id` and `class` attributes?",
+      "options": [
+        "id is unique, class is reusable",
+        "id is for CSS only",
+        "class is unique, id is reusable",
+        "No difference"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-51",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which HTML5 element is used to display a progress bar?",
+      "options": [
+        "<progress>",
+        "<status>",
+        "<meter>",
+        "<bar>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321025-52",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which attribute is used to disable an input field?",
+      "options": [
+        "off",
+        "disabled",
+        "readonly",
+        "disable"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321025-53",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the purpose of the `method` attribute in a form?",
+      "options": [
+        "Defines encoding",
+        "Defines target",
+        "Defines HTTP method",
+        "Defines form name"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321025-54",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which HTML element is used to define a definition description?",
+      "options": [
+        "<dl>",
+        "<dt>",
+        "<desc>",
+        "<dd>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321025-55",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the correct HTML for a text area?",
+      "options": [
+        "<input type=\"textarea\">",
+        "<textbox>",
+        "<textarea>",
+        "<area>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-56",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which element is used to define a definition term?",
+      "options": [
+        "<dd>",
+        "<dl>",
+        "<dt>",
+        "<term>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-57",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What does the `post` method do in forms?",
+      "options": [
+        "Caches the request",
+        "Encrypts data automatically",
+        "Sends data in request body",
+        "Appends data to URL"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-58",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which HTML5 input type is for email addresses?",
+      "options": [
+        "email",
+        "text",
+        "url",
+        "mail"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-59",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What does the `autocomplete` attribute do?",
+      "options": [
+        "Fills fields based on past input",
+        "Adds CSS automatically",
+        "Automatically submits form",
+        "Completes HTML tags"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-60",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which HTML element is used to embed an external application?",
+      "options": [
+        "<app>",
+        "<embed>",
+        "<object>",
+        "<plugin>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-61",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the purpose of the `<fieldset>` tag?",
+      "options": [
+        "Creates borders",
+        "Groups related form elements",
+        "Defines input fields",
+        "Sets field properties"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321026-62",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which attribute is used to provide a unique identifier for an element?",
+      "options": [
+        "key",
+        "class",
+        "name",
+        "id"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-63",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What does the `rowspan` attribute do?",
+      "options": [
+        "Spans across pages",
+        "Spans across tables",
+        "Spans across rows",
+        "Spans across columns"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-64",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which HTML5 element is used to mark up a dialog or conversation?",
+      "options": [
+        "<dialog>",
+        "<speech>",
+        "<talk>",
+        "<conversation>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-65",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the correct HTML for a submit button?",
+      "options": [
+        "<button type=\"submit\">",
+        "<submit>",
+        "Both A and B",
+        "<input type=\"submit\">"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-66",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which element is used to define a description list?",
+      "options": [
+        "<dl>",
+        "<ol>",
+        "<list>",
+        "<ul>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-67",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the purpose of the `<legend>` tag?",
+      "options": [
+        "Adds a legend to an image",
+        "Defines a caption for a fieldset",
+        "Defines a title",
+        "Creates a map key"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321026-68",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "Which attribute is used to specify the character encoding of an HTML document?",
+      "options": [
+        "lang",
+        "type",
+        "encoding",
+        "charset"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-69",
+      "subject": "sss",
+      "difficulty": "medium",
+      "question": "What is the correct HTML for a file upload field?",
+      "options": [
+        "<input type=\"file\">",
+        "<input type=\"document\">",
+        "<upload>",
+        "<fileupload>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-70",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the difference between `<strong>` and `<b>` tags?",
+      "options": [
+        "They are interchangeable",
+        "<b> is for importance, <strong> is stylistic",
+        "<strong> is for importance, <b> is stylistic bold",
+        "No difference"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-71",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which HTTP method is not supported by HTML forms?",
+      "options": [
+        "POST",
+        "GET",
+        "Both A and B",
+        "PUT"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-72",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the purpose of the `sandbox` attribute in an iframe?",
+      "options": [
+        "Restricts capabilities",
+        "Enables full access",
+        "Saves bandwidth",
+        "Encrypts content"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-73",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which HTML5 API is used for storing data on the client side?",
+      "options": [
+        "IndexedDB",
+        "WebSQL",
+        "LocalStorage",
+        "All of the above"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-74",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What does the `defer` attribute do in a script tag?",
+      "options": [
+        "Encrypts script",
+        "Deletes script",
+        "Executes script immediately",
+        "Delays script execution until page loads"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-75",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the difference between `async` and `defer`?",
+      "options": [
+        "Both block rendering",
+        "Same thing",
+        "defer runs when ready, async runs in order",
+        "async runs when ready, defer runs in order"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-76",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which HTML5 element is used to specify a date picker?",
+      "options": [
+        "<calendar>",
+        "<datepicker>",
+        "<input type=\"date\">",
+        "<date>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-77",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the purpose of the `pattern` attribute?",
+      "options": [
+        "Patterns text",
+        "Defines layout pattern",
+        "Creates a pattern background",
+        "Defines regex for validation"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-78",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which element is used to define a color input?",
+      "options": [
+        "<input type=\"color\">",
+        "<color>",
+        "<colour>",
+        "<picker>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-79",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the correct HTML for a number spinner?",
+      "options": [
+        "<input type=\"number\">",
+        "<input type=\"spinner\">",
+        "<spinner>",
+        "<number>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-80",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which attribute is used to specify the relationship of a linked document?",
+      "options": [
+        "relation",
+        "ref",
+        "type",
+        "rel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-81",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the purpose of the `<datalist>` tag?",
+      "options": [
+        "Creates a dropdown",
+        "Lists data",
+        "Creates a database",
+        "Provides autocomplete options"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-82",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which HTML5 element is used for scalable vector graphics?",
+      "options": [
+        "<vector>",
+        "<graphics>",
+        "<canvas>",
+        "<svg>"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-83",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the difference between `<figure>` and `<img>`?",
+      "options": [
+        "No difference",
+        "<figure> groups content with caption",
+        "<figure> is for background images",
+        "<img> is for icons only"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321026-84",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which element is used to define a caption for a figure?",
+      "options": [
+        "<figurecaption>",
+        "<caption>",
+        "<figcaption>",
+        "<figtext>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-85",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What does the `novalidate` attribute do?",
+      "options": [
+        "Enables validation",
+        "No effect",
+        "Disables form validation",
+        "Creates a new validation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-86",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which input type is used for telephone numbers?",
+      "options": [
+        "numeric",
+        "phone",
+        "tel",
+        "text"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-87",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the purpose of the `contenteditable` attribute?",
+      "options": [
+        "Edits content programmatically",
+        "Makes element editable",
+        "Deletes content",
+        "Creates content"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321026-88",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which HTML5 element is used to specify a main content area?",
+      "options": [
+        "<body>",
+        "<content>",
+        "<main>",
+        "<primary>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-89",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the correct HTML for a month picker?",
+      "options": [
+        "<calendar>",
+        "<input type=\"month\">",
+        "<monthpicker>",
+        "<input type=\"date-month\">"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321026-90",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which element is used to define a mark or highlighted text?",
+      "options": [
+        "<mark>",
+        "<highlight>",
+        "<strong>",
+        "<em>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-91",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the purpose of the `<optgroup>` tag?",
+      "options": [
+        "Creates a group of forms",
+        "Groups input fields",
+        "Groups options in a select",
+        "Groups tables"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-92",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which attribute is used to specify the MIME type of an embedded object?",
+      "options": [
+        "mime",
+        "type",
+        "encoding",
+        "format"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321026-93",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What does the `ismap` attribute do in an image?",
+      "options": [
+        "Maps the image",
+        "Defines server-side image map",
+        "Creates a sitemap",
+        "Defines client-side image map"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "imp-1770853321026-94",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which HTML5 element is used to specify a time or date?",
+      "options": [
+        "<datetime>",
+        "<date>",
+        "<time>",
+        "<clock>"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "imp-1770853321026-95",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the correct HTML for a week picker?",
+      "options": [
+        "<calendar>",
+        "<input type=\"date-week\">",
+        "<weekpicker>",
+        "<input type=\"week\">"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-96",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which element is used to define an abbreviation or acronym?",
+      "options": [
+        "<abbr>",
+        "<short>",
+        "<acronym>",
+        "<abbrev>"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-97",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What is the purpose of the `<bdi>` tag?",
+      "options": [
+        "Big display",
+        "Background image",
+        "Bold text",
+        "Bi-directional isolation"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "imp-1770853321026-98",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "Which attribute is used to specify the coordinates of an area in an image map?",
+      "options": [
+        "coords",
+        "shape",
+        "map",
+        "area"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "imp-1770853321026-99",
+      "subject": "sss",
+      "difficulty": "hard",
+      "question": "What does the `crossorigin` attribute do in a script tag?",
+      "options": [
+        "Cross compiles",
+        "Crosses origin",
+        "Handles CORS requests",
+        "Creates cross references"
+      ],
+      "correctAnswer": 2
+    }
+  ],
+  "results": [
+    {
+      "id": "r-1770851836040",
+      "userId": "user-1770851796602-jkp7",
+      "subject": "custom",
+      "difficulty": "hard",
+      "score": 0,
+      "total": 10,
+      "percentage": 0,
+      "date": "2026-02-11T23:17:16.040Z",
+      "timeTaken": 3,
+      "username": "amir"
+    },
+    {
+      "id": "r-1770851909960",
+      "userId": "user-1770851895169-2ll7",
+      "subject": "css",
+      "difficulty": "medium",
+      "score": 1,
+      "total": 7,
+      "percentage": 14,
+      "date": "2026-02-11T23:18:29.960Z",
+      "timeTaken": 4,
+      "username": "ali"
+    },
+    {
+      "id": "r-1770852070623",
+      "userId": "guest-1770852060103-wmoz",
+      "subject": "html",
+      "difficulty": "medium",
+      "score": 0,
+      "total": 7,
+      "percentage": 0,
+      "date": "2026-02-11T23:21:10.623Z",
+      "timeTaken": 4,
+      "username": "Guest_BYJY"
+    },
+    {
+      "id": "r-1770853366410",
+      "userId": "admin-1",
+      "subject": "sss",
+      "difficulty": "hard",
+      "score": 0,
+      "total": 10,
+      "percentage": 0,
+      "date": "2026-02-11T23:42:46.410Z",
+      "timeTaken": 9,
+      "username": "admin"
+    },
+    {
+      "id": "r-1770853410009",
+      "userId": "admin-1",
+      "subject": "sss",
+      "difficulty": "hard",
+      "score": 2,
+      "total": 12,
+      "percentage": 17,
+      "date": "2026-02-11T23:43:30.009Z",
+      "timeTaken": 11,
+      "username": "admin"
+    },
+    {
+      "id": "r-1770853473812",
+      "userId": "admin-1",
+      "subject": "sss",
+      "difficulty": "medium",
+      "score": 0,
+      "total": 12,
+      "percentage": 0,
+      "date": "2026-02-11T23:44:33.812Z",
+      "timeTaken": 18,
+      "username": "admin"
+    },
+    {
+      "id": "r-1770853517649",
+      "userId": "admin-1",
+      "subject": "sss",
+      "difficulty": "easy",
+      "score": 1,
+      "total": 12,
+      "percentage": 8,
+      "date": "2026-02-11T23:45:17.649Z",
+      "timeTaken": 18,
+      "username": "admin"
+    }
+  ],
+  "settings": {
+    "questionsPerQuiz": 10,
+    "timePerQuiz": 10
+  },
+  "subjects": [
+    {
+      "id": "html",
+      "name": "HTML",
+      "icon": "🌐",
+      "gradient": "from-orange-500 to-red-500",
+      "description": "Markup & Structure",
+      "questionsPerQuiz": 10,
+      "timePerQuiz": 10
+    },
+    {
+      "id": "css",
+      "name": "CSS",
+      "icon": "🎨",
+      "gradient": "from-blue-500 to-cyan-500",
+      "description": "Styling & Layout",
+      "questionsPerQuiz": 10,
+      "timePerQuiz": 10
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "icon": "⚡",
+      "gradient": "from-yellow-500 to-amber-500",
+      "description": "Logic & Interactivity",
+      "questionsPerQuiz": 10,
+      "timePerQuiz": 10
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "icon": "🐍",
+      "gradient": "from-green-500 to-emerald-500",
+      "description": "General Purpose",
+      "questionsPerQuiz": 10,
+      "timePerQuiz": 10
+    },
+    {
+      "id": "csharp",
+      "name": "C#",
+      "icon": "💎",
+      "gradient": "from-purple-500 to-violet-500",
+      "description": "Object-Oriented",
+      "questionsPerQuiz": 10,
+      "timePerQuiz": 10
+    },
+    {
+      "id": "sss",
+      "name": "sss",
+      "icon": "💻",
+      "gradient": "from-sky-500 to-indigo-500",
+      "description": "sss questions",
+      "questionsPerQuiz": 12,
+      "timePerQuiz": 0.3
+    }
+  ]
+}
