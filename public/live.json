@@ -1,123 +1,16 @@
 {
   "appName": "CodeQuiz",
-  "lastUpdated": "2026-02-11T23:50:20.269Z",
+  "lastUpdated": "2026-02-14T21:10:58.985Z",
   "users": [
     {
       "id": "admin-1",
       "username": "admin",
       "password": "admin123",
       "isAdmin": true,
-      "createdAt": "2024-01-01T00:00:00.000Z"
-    },
-    {
-      "id": "user-1770851796602-jkp7",
-      "username": "amir",
-      "password": "amir",
-      "isAdmin": false,
-      "createdAt": "2026-02-11T23:16:36.602Z"
-    },
-    {
-      "id": "user-1770851895169-2ll7",
-      "username": "ali",
-      "password": "alii",
-      "isAdmin": false,
-      "createdAt": "2026-02-11T23:18:15.169Z"
-    },
-    {
-      "id": "guest-1770852060103-wmoz",
-      "username": "Guest_BYJY",
-      "password": "",
-      "isAdmin": false,
-      "isGuest": true,
-      "createdAt": "2026-02-11T23:21:00.103Z"
+      "createdAt": "2026-02-14T21:09:35.873Z"
     }
   ],
-  "results": [
-    {
-      "id": "r-1770851836040",
-      "userId": "user-1770851796602-jkp7",
-      "subject": "custom",
-      "difficulty": "hard",
-      "score": 0,
-      "total": 10,
-      "percentage": 0,
-      "date": "2026-02-11T23:17:16.040Z",
-      "timeTaken": 3,
-      "username": "amir"
-    },
-    {
-      "id": "r-1770851909960",
-      "userId": "user-1770851895169-2ll7",
-      "subject": "css",
-      "difficulty": "medium",
-      "score": 1,
-      "total": 7,
-      "percentage": 14,
-      "date": "2026-02-11T23:18:29.960Z",
-      "timeTaken": 4,
-      "username": "ali"
-    },
-    {
-      "id": "r-1770852070623",
-      "userId": "guest-1770852060103-wmoz",
-      "subject": "html",
-      "difficulty": "medium",
-      "score": 0,
-      "total": 7,
-      "percentage": 0,
-      "date": "2026-02-11T23:21:10.623Z",
-      "timeTaken": 4,
-      "username": "Guest_BYJY"
-    },
-    {
-      "id": "r-1770853366410",
-      "userId": "admin-1",
-      "subject": "sss",
-      "difficulty": "hard",
-      "score": 0,
-      "total": 10,
-      "percentage": 0,
-      "date": "2026-02-11T23:42:46.410Z",
-      "timeTaken": 9,
-      "username": "admin"
-    },
-    {
-      "id": "r-1770853410009",
-      "userId": "admin-1",
-      "subject": "sss",
-      "difficulty": "hard",
-      "score": 2,
-      "total": 12,
-      "percentage": 17,
-      "date": "2026-02-11T23:43:30.009Z",
-      "timeTaken": 11,
-      "username": "admin"
-    },
-    {
-      "id": "r-1770853473812",
-      "userId": "admin-1",
-      "subject": "sss",
-      "difficulty": "medium",
-      "score": 0,
-      "total": 12,
-      "percentage": 0,
-      "date": "2026-02-11T23:44:33.812Z",
-      "timeTaken": 18,
-      "username": "admin"
-    },
-    {
-      "id": "r-1770853517649",
-      "userId": "admin-1",
-      "subject": "sss",
-      "difficulty": "easy",
-      "score": 1,
-      "total": 12,
-      "percentage": 8,
-      "date": "2026-02-11T23:45:17.649Z",
-      "timeTaken": 18,
-      "username": "admin"
-    }
-  ],
+  "results": [],
   "settings": {
     "questionsPerQuiz": 10,
     "timePerQuiz": 10

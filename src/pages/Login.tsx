@@ -174,13 +174,6 @@ export function Login({ onLogin }: LoginProps) {
             No registration needed • Your scores will still be saved
           </p>
 
-          {isLogin && (
-            <div className="mt-5 pt-5 border-t border-white/5 text-center">
-              <p className="text-xs text-gray-600">
-                Demo admin: <span className="text-gray-400 font-mono">admin</span> / <span className="text-gray-400 font-mono">admin123</span>
-              </p>
-            </div>
-          )}
         </div>
       </div>
     </div>
